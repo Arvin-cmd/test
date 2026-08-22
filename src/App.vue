@@ -2,7 +2,7 @@
 
 <template>
   <div>
-    <h1>Hello World</h1>
+    <h1>阿萨德就看见卡视角卡死登记卡立卡进啦打撒</h1>
   </div>
 </template>
 
