@@ -2,7 +2,7 @@
 
 <template>
   <div>
-    <h1>参数说明</h1>
+    <h1>参数说是啊撒大声地明</h1>
   </div>
 </template>
 
